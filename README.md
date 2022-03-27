@@ -2,7 +2,7 @@
 An NLP analysis of Mac Miller's music over the ages
 
 ## Prevalence of themes across Mac Miller's discography
-![matplotlib graph](Screen Shot 2022-03-27 at 4.33.46 PM.png)
+![matplotlib graph](https://github.com/faisalaqureshi/macmiller/blob/6f6e3cb42c3a8c3ab35c051106567e693436080f/Screen%20Shot%202022-03-27%20at%204.33.46%20PM.png)
 
 ## Project Goal:
 The aim for this project was to analyze the main themes of Mac Miller's music accross his albums, and to create a reccomendation system of similar Mac Miller songs based on your favorite song.
