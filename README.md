@@ -22,6 +22,7 @@ I used [lyricsgenius](https://github.com/johnwmillr/LyricsGenius) to scrape lyri
 - Matplotlib / Seaborn
 - Cosine Similarity
 - Heap Sort
+- Regex
 
 ## Challenges
 
