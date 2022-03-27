@@ -13,7 +13,7 @@ I used [lyricsgenius](https://github.com/johnwmillr/LyricsGenius) to scrape lyri
 - lyrics: This folder contains the json files for all the lyrics across albums.
 - table_w_topics.csv: This csv table contains all the songs with the proportion of lyrics that are within a certain topic model
 
-## Techniques Used
+## Techniques/Tools Used
 
 - Count Vectorization
 - LDA (Dimentionality Reduction / Topic Modelling)
